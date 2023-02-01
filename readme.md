@@ -15,3 +15,24 @@ URL: [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js)
 ## [cors proxy](https://github.com/Rob--W/cors-anywhere)
 we use cors proxy to avoid cross-origin problems ATTENTION! you need to set up your server
 refer: [使用cors-anywhere轮子无脑解决跨域问题](https://zhuanlan.zhihu.com/p/464078121)
+
+## overview
+* tracking and rendering seems not very good
+* adaptivity to phone camera seems not easy
+* seems not support multi-targets
+
+# [MindAR](https://github.com/hiukim/mind-ar-js)
+
+## quick preview and trial by [Pictarize]()
+* support interaction with text, video, click, etc.
+* seems only signle target
+* free only for preview, charge for production
+
+## MindAR
+
+### Documents
+* [overview](https://hiukim.github.io/mind-ar-js-doc/) --  installation, image tracking (quick start, multi-targets, multi-tracks, custom UI, events handling)
+* 
+
+### Utils
+* [image target compiler](https://hiukim.github.io/mind-ar-js-doc/tools/compile/)
