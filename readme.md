@@ -18,5 +18,23 @@ refer: [使用cors-anywhere轮子无脑解决跨域问题](https://zhuanlan.zhih
 ## [github page](https://docs.github.com/en/pages/quickstart) to deploy web page
 
 
-# mind-ar-js
-URL: [hiukim/mind-ar-js](https://github.com/hiukim/mind-ar-js)
+## overview
+* tracking and rendering seems not very good
+* adaptivity to phone camera seems not easy
+* seems not support multi-targets
+
+# [MindAR](https://github.com/hiukim/mind-ar-js)
+
+## quick preview and trial by [Pictarize]()
+* support interaction with text, video, click, etc.
+* seems only signle target
+* free only for preview, charge for production
+
+## MindAR
+
+### Documents
+* [overview](https://hiukim.github.io/mind-ar-js-doc/) --  installation, image tracking (quick start, multi-targets, multi-tracks, custom UI, events handling)
+* 
+
+### Utils
+* [image target compiler](https://hiukim.github.io/mind-ar-js-doc/tools/compile/)
