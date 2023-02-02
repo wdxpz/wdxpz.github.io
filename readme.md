@@ -15,3 +15,8 @@ URL: [AR-js-org/AR.js](https://github.com/AR-js-org/AR.js)
 ## [cors proxy](https://github.com/Rob--W/cors-anywhere)
 we use cors proxy to avoid cross-origin problems ATTENTION! you need to set up your server
 refer: [使用cors-anywhere轮子无脑解决跨域问题](https://zhuanlan.zhihu.com/p/464078121)
+## [github page](https://docs.github.com/en/pages/quickstart) to deploy web page
+
+
+# mind-ar-js
+URL: [hiukim/mind-ar-js](https://github.com/hiukim/mind-ar-js)
