@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {"id": "Beijing Office", "group": 1, "info": "Name: Orange Beijing Office\nTarget: Sniffer-Room\nRelation: isowner\nuuid:a8fb99c9-2646-461e-9fb5-66bc2f0b533c"},
+    {"id": "Sniffer-Room", "group": 2, "info": "Name: Sniffer-Room in Orange Beijing Office\nTarget: TV+Robot\nRelation: isowner\nuuid:ecaa6a3d-503f-448b-bea1-8032196264c5"},
+    {"id": "Sniffer-TV", "group": 1, "info": "Name: Sniffer-TV in Sniffer-Room\nTarget: None\nRelation: isowner\nuuid:cc8e7e20-7144-4929-9dd1-382de9f4af4f"},
+    {"id": "Sniffer-Robot", "group": 1, "info": "Name: Sniffer-Robot in Sniffer-Room\nTarget: None\nRelation: isowner\nuuid:ecaa6a3d-503f-448b-bea1-8032196264c5"}
+  ],
+  "links": [
+    {"source": "Beijing Office", "target": "Sniffer-Room", "value": 2},
+    {"source": "Sniffer-Room", "target": "Sniffer-TV", "value": 2},
+    {"source": "Sniffer-Room", "target": "Sniffer-Robot", "value": 2}
+  ]
+}
